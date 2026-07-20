@@ -17,14 +17,12 @@ A Progressive Web Application (PWA) built as part of the Frontend Developer Tech
 
 ---
 
-## Technology Stack
+## Tech Stack
 
 - React 19
 - TypeScript
 - Vite
 - Context API
-- HTML5
-- CSS3
 - Service Worker
 - Vitest
 - React Testing Library
