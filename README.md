@@ -34,7 +34,7 @@ A Progressive Web Application (PWA) built as part of the Frontend Developer Tech
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/uidai-credential-wallet-pwa.git
+git clone https://github.com/jyotheeshmangasamudram/uidai-credential-wallet-pwa.git
 
 cd uidai-credential-wallet-pwa
 
